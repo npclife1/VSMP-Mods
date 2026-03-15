@@ -1,4 +1,4 @@
-Updated VSMP Launcher to v2.3
+Updated VSMP Launcher to v2.2
 
 > Removed AI Assistance
 > Added Cloud Link (If a mod is added/deleted, you don't need to reinstall the app anymore)
