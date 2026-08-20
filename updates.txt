@@ -1,4 +1,4 @@
-Updated VSMP Launcher to v2.2.1
+Updated VSMP Launcher to v2.2.2
 
-> Repaired Github LFS bug
-> Changed and optimized the way default mods override horror mods
+> Added an option to return to main menu
+> Added survival2 mods (vc mod only for now)
